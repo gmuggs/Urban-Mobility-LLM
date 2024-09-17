@@ -1,0 +1,243 @@
+,context,output
+0,"The individual is a 43-year-old female who's racial background is 'Chinese alone (410-419)'.  She lives in Washington-Arlington-Alexandria, DC-VA-MD-WV. She has been selected for a travel survey and have recorded her travel logs for 2016-09-08 which is a Thursday. 
+She was asked to provide a list of all the places she visited on her travel date, including the exact times of arrival and departure, and the location type. The table format provided was as follows: 
+
+| Place Visited           | Arrival Time    | Departure Time  | Location Type   |
+|-------------------------|-----------------|-----------------|-----------------|
+| [Place Name]            | [HH:MM AM/PM]   | [HH:MM AM/PM]   | [Location Type] |
+| [Place Name]            | [HH:MM AM/PM]   | [HH:MM AM/PM]   | [Location Type] |
+| ...                     | ...             | ...             | ...             |
+
+She was instructed to fill in each row with the relevant information for each place she visited on the specified date. If she visited the same place multiple times on the same date, she was advised to add a separate row for each visit to that place. 
+
+She was reminded of the following:
+
+1. Ensure that 'Home' is included in the list if it was part of  travel activities on the specified date.
+2. She was asked to input the exact arrival and departure time as she noted in her travel diary.
+3. She was advised to carefully enter the times, as gaps between the departure time of the previous place and the arrival time of the current place indicate the time taken to arrive at the current location.
+
+For the 'Location Type,' she was instructed to use the corresponding code from the provided list:
+
+1: Regular home activities (chores, sleep)
+2: Work from home (paid)
+3: Work
+4: Work-related meeting / trip
+5: Volunteer activities (not paid)
+6: Drop off / pick up someone
+7: Change type of transportation
+8: Attend school as a student
+9: Attend child care
+10: Attend adult care
+11: Buy goods (groceries, clothes, appliances, gas)
+12: Buy services (dry cleaners, banking, service a car, etc)
+13: Buy meals (go out for a meal, snack, carry-out)
+14: Other general errands (post office, library)
+15: Recreational activities (visit parks, movies, bars, etc)
+16: Exercise (go for a jog, walk, walk the dog, go to the gym, etc)
+17: Visit friends or relatives
+18: Health care visit (medical, dental, therapy)
+19: Religious or other community activities
+97: Something else
+
+The table she created is as follows:
+","| Place Visited           | Arrival Time    | Departure Time  | Location Type   |
+|-------------------------|-----------------|-----------------|-----------------|
+| Home                    | 12:00 AM        | 09:45 AM        | 1               |
+| Work                    | 10:38 AM        | 04:58 PM        | 3               |
+| Visit friends           | 05:02 PM        | 07:00 PM        | 17              |
+| Work                    | 07:05 PM        | 07:15 PM        | 3               |
+| Home                    | 07:42 PM        | 11:59 PM        | 1               |
+"
+1,"The individual is a 49-year-old female who's racial background is 'Asian alone or in combination with one or more other races, not Hispanic or Latino'.  She lives in Phoenix-Mesa-Scottsdale, AZ. She has been selected for a travel survey and have recorded her travel logs for 2017-01-21 which is a Saturday. 
+She was asked to provide a list of all the places she visited on her travel date, including the exact times of arrival and departure, and the location type. The table format provided was as follows: 
+
+| Place Visited           | Arrival Time    | Departure Time  | Location Type   |
+|-------------------------|-----------------|-----------------|-----------------|
+| [Place Name]            | [HH:MM AM/PM]   | [HH:MM AM/PM]   | [Location Type] |
+| [Place Name]            | [HH:MM AM/PM]   | [HH:MM AM/PM]   | [Location Type] |
+| ...                     | ...             | ...             | ...             |
+
+She was instructed to fill in each row with the relevant information for each place she visited on the specified date. If she visited the same place multiple times on the same date, she was advised to add a separate row for each visit to that place. 
+
+She was reminded of the following:
+
+1. Ensure that 'Home' is included in the list if it was part of  travel activities on the specified date.
+2. She was asked to input the exact arrival and departure time as she noted in her travel diary.
+3. She was advised to carefully enter the times, as gaps between the departure time of the previous place and the arrival time of the current place indicate the time taken to arrive at the current location.
+
+For the 'Location Type,' she was instructed to use the corresponding code from the provided list:
+
+1: Regular home activities (chores, sleep)
+2: Work from home (paid)
+3: Work
+4: Work-related meeting / trip
+5: Volunteer activities (not paid)
+6: Drop off / pick up someone
+7: Change type of transportation
+8: Attend school as a student
+9: Attend child care
+10: Attend adult care
+11: Buy goods (groceries, clothes, appliances, gas)
+12: Buy services (dry cleaners, banking, service a car, etc)
+13: Buy meals (go out for a meal, snack, carry-out)
+14: Other general errands (post office, library)
+15: Recreational activities (visit parks, movies, bars, etc)
+16: Exercise (go for a jog, walk, walk the dog, go to the gym, etc)
+17: Visit friends or relatives
+18: Health care visit (medical, dental, therapy)
+19: Religious or other community activities
+97: Something else
+
+The table she created is as follows:
+","| Place Visited           | Arrival Time    | Departure Time  | Location Type   |
+|-------------------------|-----------------|-----------------|-----------------|
+| Home                    | 12:00 AM        | 06:30 AM        | 1               |
+| Recreation              | 07:45 AM        | 12:30 PM        | 15              |
+| Buy goods               | 01:15 PM        | 02:00 PM        | 11              |
+| Home                    | 02:15 PM        | 11:59 PM        | 1               |
+"
+2,"The individual is a 37-year-old female who's racial background is 'American Indian and Alaska Native alone, not Hispanic or Latino'.  She lives in Grand Rapids-Wyoming, MI. She has been selected for a travel survey and have recorded her travel logs for 2016-09-30 which is a Friday. 
+She was asked to provide a list of all the places she visited on her travel date, including the exact times of arrival and departure, and the location type. The table format provided was as follows: 
+
+| Place Visited           | Arrival Time    | Departure Time  | Location Type   |
+|-------------------------|-----------------|-----------------|-----------------|
+| [Place Name]            | [HH:MM AM/PM]   | [HH:MM AM/PM]   | [Location Type] |
+| [Place Name]            | [HH:MM AM/PM]   | [HH:MM AM/PM]   | [Location Type] |
+| ...                     | ...             | ...             | ...             |
+
+She was instructed to fill in each row with the relevant information for each place she visited on the specified date. If she visited the same place multiple times on the same date, she was advised to add a separate row for each visit to that place. 
+
+She was reminded of the following:
+
+1. Ensure that 'Home' is included in the list if it was part of  travel activities on the specified date.
+2. She was asked to input the exact arrival and departure time as she noted in her travel diary.
+3. She was advised to carefully enter the times, as gaps between the departure time of the previous place and the arrival time of the current place indicate the time taken to arrive at the current location.
+
+For the 'Location Type,' she was instructed to use the corresponding code from the provided list:
+
+1: Regular home activities (chores, sleep)
+2: Work from home (paid)
+3: Work
+4: Work-related meeting / trip
+5: Volunteer activities (not paid)
+6: Drop off / pick up someone
+7: Change type of transportation
+8: Attend school as a student
+9: Attend child care
+10: Attend adult care
+11: Buy goods (groceries, clothes, appliances, gas)
+12: Buy services (dry cleaners, banking, service a car, etc)
+13: Buy meals (go out for a meal, snack, carry-out)
+14: Other general errands (post office, library)
+15: Recreational activities (visit parks, movies, bars, etc)
+16: Exercise (go for a jog, walk, walk the dog, go to the gym, etc)
+17: Visit friends or relatives
+18: Health care visit (medical, dental, therapy)
+19: Religious or other community activities
+97: Something else
+
+The table she created is as follows:
+","| Place Visited           | Arrival Time    | Departure Time  | Location Type   |
+|-------------------------|-----------------|-----------------|-----------------|
+| Exercise                | 12:00 AM        | 08:43 AM        | 16              |
+| Exercise                | 08:44 AM        | 09:50 AM        | 16              |
+| Home                    | 09:51 AM        | 03:00 PM        | 1               |
+| Recreation              | 03:16 PM        | 05:40 PM        | 15              |
+| Home                    | 06:10 PM        | 11:59 PM        | 1               |
+"
+3,"The individual is a 39-year-old female who's racial background is 'Nicaraguan (224)'.  She lives in New York-Newark-Jersey City, NY-NJ-PA. She has been selected for a travel survey and have recorded her travel logs for 2017-01-01 which is a Sunday. 
+She was asked to provide a list of all the places she visited on her travel date, including the exact times of arrival and departure, and the location type. The table format provided was as follows: 
+
+| Place Visited           | Arrival Time    | Departure Time  | Location Type   |
+|-------------------------|-----------------|-----------------|-----------------|
+| [Place Name]            | [HH:MM AM/PM]   | [HH:MM AM/PM]   | [Location Type] |
+| [Place Name]            | [HH:MM AM/PM]   | [HH:MM AM/PM]   | [Location Type] |
+| ...                     | ...             | ...             | ...             |
+
+She was instructed to fill in each row with the relevant information for each place she visited on the specified date. If she visited the same place multiple times on the same date, she was advised to add a separate row for each visit to that place. 
+
+She was reminded of the following:
+
+1. Ensure that 'Home' is included in the list if it was part of  travel activities on the specified date.
+2. She was asked to input the exact arrival and departure time as she noted in her travel diary.
+3. She was advised to carefully enter the times, as gaps between the departure time of the previous place and the arrival time of the current place indicate the time taken to arrive at the current location.
+
+For the 'Location Type,' she was instructed to use the corresponding code from the provided list:
+
+1: Regular home activities (chores, sleep)
+2: Work from home (paid)
+3: Work
+4: Work-related meeting / trip
+5: Volunteer activities (not paid)
+6: Drop off / pick up someone
+7: Change type of transportation
+8: Attend school as a student
+9: Attend child care
+10: Attend adult care
+11: Buy goods (groceries, clothes, appliances, gas)
+12: Buy services (dry cleaners, banking, service a car, etc)
+13: Buy meals (go out for a meal, snack, carry-out)
+14: Other general errands (post office, library)
+15: Recreational activities (visit parks, movies, bars, etc)
+16: Exercise (go for a jog, walk, walk the dog, go to the gym, etc)
+17: Visit friends or relatives
+18: Health care visit (medical, dental, therapy)
+19: Religious or other community activities
+97: Something else
+
+The table she created is as follows:
+","| Place Visited           | Arrival Time    | Departure Time  | Location Type   |
+|-------------------------|-----------------|-----------------|-----------------|
+| Home                    | 12:00 AM        | 06:45 AM        | 1               |
+| Work                    | 07:00 AM        | 04:30 PM        | 3               |
+| Home                    | 04:45 PM        | 05:00 PM        | 1               |
+| Buy services            | 05:20 PM        | 09:10 PM        | 12              |
+| Home                    | 09:35 PM        | 11:59 PM        | 1               |
+"
+4,"The individual is a 61-year-old male who's racial background is 'White alone or in combination with one or more other races'.  He lives in New York-Newark-Jersey City, NY-NJ-PA. He has been selected for a travel survey and have recorded his travel logs for 2016-12-01 which is a Thursday. 
+He was asked to provide a list of all the places he visited on his travel date, including the exact times of arrival and departure, and the location type. The table format provided was as follows: 
+
+| Place Visited           | Arrival Time    | Departure Time  | Location Type   |
+|-------------------------|-----------------|-----------------|-----------------|
+| [Place Name]            | [HH:MM AM/PM]   | [HH:MM AM/PM]   | [Location Type] |
+| [Place Name]            | [HH:MM AM/PM]   | [HH:MM AM/PM]   | [Location Type] |
+| ...                     | ...             | ...             | ...             |
+
+He was instructed to fill in each row with the relevant information for each place he visited on the specified date. If he visited the same place multiple times on the same date, he was advised to add a separate row for each visit to that place.
+
+He was reminded of the following:
+
+1. Ensure that 'Home' is included in the list if it was part of  travel activities on the specified date.
+2. He was asked to input the exact arrival and departure time as he noted in his travel diary.
+3. He was advised to carefully enter the times, as gaps between the departure time of the previous place and the arrival time of the current place indicate the time taken to arrive at the current location.
+
+For the 'Location Type,' he was instructed to use the corresponding code from the provided list:
+
+1: Regular home activities (chores, sleep)
+2: Work from home (paid)
+3: Work
+4: Work-related meeting / trip
+5: Volunteer activities (not paid)
+6: Drop off / pick up someone
+7: Change type of transportation
+8: Attend school as a student
+9: Attend child care
+10: Attend adult care
+11: Buy goods (groceries, clothes, appliances, gas)
+12: Buy services (dry cleaners, banking, service a car, etc)
+13: Buy meals (go out for a meal, snack, carry-out)
+14: Other general errands (post office, library)
+15: Recreational activities (visit parks, movies, bars, etc)
+16: Exercise (go for a jog, walk, walk the dog, go to the gym, etc)
+17: Visit friends or relatives
+18: Health care visit (medical, dental, therapy)
+19: Religious or other community activities
+97: Something else
+
+The table he created is as follows:
+","| Place Visited           | Arrival Time    | Departure Time  | Location Type   |
+|-------------------------|-----------------|-----------------|-----------------|
+| Home                    | 12:00 AM        | 08:00 AM        | 1               |
+| Work                    | 09:00 AM        | 05:30 PM        | 3               |
+| Home                    | 06:45 PM        | 11:59 PM        | 1               |
+"

@@ -1,0 +1,47 @@
+Regions Code,Regions,Sex (2 categories) Code,Sex (2 categories),Age (23 categories) Code,Age (23 categories),Observation
+E12000007,London,1,Female,1,Aged 2 years and under,155245
+E12000007,London,1,Female,2,Aged 3 to 4 years,104116
+E12000007,London,1,Female,3,Aged 5 to 7 years,153777
+E12000007,London,1,Female,4,Aged 8 to 9 years,106274
+E12000007,London,1,Female,5,Aged 10 to 14 years,261763
+E12000007,London,1,Female,6,Aged 15 years,48872
+E12000007,London,1,Female,7,Aged 16 to 17 years,98833
+E12000007,London,1,Female,8,Aged 18 to 19 years,92557
+E12000007,London,1,Female,9,Aged 20 to 24 years,304445
+E12000007,London,1,Female,10,Aged 25 to 29 years,412213
+E12000007,London,1,Female,11,Aged 30 to 34 years,422429
+E12000007,London,1,Female,12,Aged 35 to 39 years,382727
+E12000007,London,1,Female,13,Aged 40 to 44 years,343126
+E12000007,London,1,Female,14,Aged 45 to 49 years,301205
+E12000007,London,1,Female,15,Aged 50 to 54 years,293840
+E12000007,London,1,Female,16,Aged 55 to 59 years,263924
+E12000007,London,1,Female,17,Aged 60 to 64 years,207660
+E12000007,London,1,Female,18,Aged 65 years,35105
+E12000007,London,1,Female,19,Aged 66 to 69 years,125463
+E12000007,London,1,Female,20,Aged 70 to 74 years,144624
+E12000007,London,1,Female,21,Aged 75 to 79 years,105689
+E12000007,London,1,Female,22,Aged 80 to 84 years,80812
+E12000007,London,1,Female,23,Aged 85 years and over,86924
+E12000007,London,2,Male,1,Aged 2 years and under,161820
+E12000007,London,2,Male,2,Aged 3 to 4 years,107775
+E12000007,London,2,Male,3,Aged 5 to 7 years,161330
+E12000007,London,2,Male,4,Aged 8 to 9 years,110115
+E12000007,London,2,Male,5,Aged 10 to 14 years,273679
+E12000007,London,2,Male,6,Aged 15 years,50977
+E12000007,London,2,Male,7,Aged 16 to 17 years,103490
+E12000007,London,2,Male,8,Aged 18 to 19 years,94658
+E12000007,London,2,Male,9,Aged 20 to 24 years,284740
+E12000007,London,2,Male,10,Aged 25 to 29 years,374336
+E12000007,London,2,Male,11,Aged 30 to 34 years,385914
+E12000007,London,2,Male,12,Aged 35 to 39 years,352980
+E12000007,London,2,Male,13,Aged 40 to 44 years,324158
+E12000007,London,2,Male,14,Aged 45 to 49 years,292765
+E12000007,London,2,Male,15,Aged 50 to 54 years,279950
+E12000007,London,2,Male,16,Aged 55 to 59 years,247691
+E12000007,London,2,Male,17,Aged 60 to 64 years,196926
+E12000007,London,2,Male,18,Aged 65 years,32785
+E12000007,London,2,Male,19,Aged 66 to 69 years,112990
+E12000007,London,2,Male,20,Aged 70 to 74 years,124513
+E12000007,London,2,Male,21,Aged 75 to 79 years,83975
+E12000007,London,2,Male,22,Aged 80 to 84 years,59853
+E12000007,London,2,Male,23,Aged 85 years and over,50686

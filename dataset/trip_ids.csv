@@ -1,0 +1,21 @@
+,ID,LABEL
+0,1,"Regular home activities (chores, sleep)"
+1,2,Work from home (paid)
+2,3,Work
+3,4,Work-related meeting / trip
+4,5,Volunteer activities (not paid)
+5,6,Drop off /pick up someone
+6,7,Change type of transportation
+7,8,Attend school as a student
+8,9,Attend child care
+9,10,Attend adult care
+10,11,"Buy goods (groceries, clothes, appliances, gas)"
+11,12,"Buy services (dry cleaners, banking, service a car, etc)"
+12,13,"Buy meals (go out for a meal, snack, carry-out)"
+13,14,"Other general errands (post office, library)"
+14,15,"Recreational activities (visit parks, movies, bars, movies, etc)"
+15,16,"Exercise (go for a jog, walk, walk the dog, go to the gym, etc)"
+16,17,Visit friends or relatives
+17,18,"Health care visit (medical, dental, therapy)"
+18,19,Religious or other community activities
+19,97,Something else

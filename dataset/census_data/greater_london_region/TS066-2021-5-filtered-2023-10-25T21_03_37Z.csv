@@ -1,0 +1,21 @@
+Regions Code,Regions,Economic activity status (20 categories) Code,Economic activity status (20 categories),Observation
+E12000007,London,-8,Does not apply,1695743
+E12000007,London,1,Economically active (excluding full-time students): In employment: Employee: Part-time,761441
+E12000007,London,2,Economically active (excluding full-time students): In employment: Employee: Full-time,2594777
+E12000007,London,3,Economically active (excluding full-time students): In employment: Self-employed with employees: Part-time,35661
+E12000007,London,4,Economically active (excluding full-time students): In employment: Self-employed with employees: Full-time,99668
+E12000007,London,5,Economically active (excluding full-time students): In employment: Self-employed without employees: Part-time,325264
+E12000007,London,6,Economically active (excluding full-time students): In employment: Self-employed without employees: Full-time,404137
+E12000007,London,7,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,290841
+E12000007,London,8,Economically active and a full-time student: In employment: Employee: Part-time,85228
+E12000007,London,9,Economically active and a full-time student: In employment: Employee: Full-time,31899
+E12000007,London,10,Economically active and a full-time student: In employment: Self-employed with employees: Part-time,1448
+E12000007,London,11,Economically active and a full-time student: In employment: Self-employed with employees: Full-time,1122
+E12000007,London,12,Economically active and a full-time student: In employment: Self-employed without employees: Part-time,13611
+E12000007,London,13,Economically active and a full-time student: In employment: Self-employed without employees: Full-time,5822
+E12000007,London,14,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,52770
+E12000007,London,15,Economically inactive: Retired,912920
+E12000007,London,16,Economically inactive: Student,511047
+E12000007,London,17,Economically inactive: Looking after home or family,425661
+E12000007,London,18,Economically inactive: Long-term sick or disabled,256223
+E12000007,London,19,Economically inactive: Other,294445

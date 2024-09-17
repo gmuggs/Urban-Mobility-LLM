@@ -1,0 +1,73 @@
+Regions Code,Regions,Marital and civil partnership status (6 categories) Code,Marital and civil partnership status (6 categories),Sex (2 categories) Code,Sex (2 categories),Age (6 categories) Code,Age (6 categories),Observation
+E12000007,London,-8,Does not apply,1,Female,1,Aged 15 years and under,830047
+E12000007,London,-8,Does not apply,1,Female,2,Aged 16 to 24 years,0
+E12000007,London,-8,Does not apply,1,Female,3,Aged 25 to 34 years,0
+E12000007,London,-8,Does not apply,1,Female,4,Aged 35 to 49 years,0
+E12000007,London,-8,Does not apply,1,Female,5,Aged 50 to 64 years,0
+E12000007,London,-8,Does not apply,1,Female,6,Aged 65 years and over,0
+E12000007,London,-8,Does not apply,2,Male,1,Aged 15 years and under,865696
+E12000007,London,-8,Does not apply,2,Male,2,Aged 16 to 24 years,0
+E12000007,London,-8,Does not apply,2,Male,3,Aged 25 to 34 years,0
+E12000007,London,-8,Does not apply,2,Male,4,Aged 35 to 49 years,0
+E12000007,London,-8,Does not apply,2,Male,5,Aged 50 to 64 years,0
+E12000007,London,-8,Does not apply,2,Male,6,Aged 65 years and over,0
+E12000007,London,1,Never married and never registered a civil partnership,1,Female,1,Aged 15 years and under,0
+E12000007,London,1,Never married and never registered a civil partnership,1,Female,2,Aged 16 to 24 years,477436
+E12000007,London,1,Never married and never registered a civil partnership,1,Female,3,Aged 25 to 34 years,580376
+E12000007,London,1,Never married and never registered a civil partnership,1,Female,4,Aged 35 to 49 years,341894
+E12000007,London,1,Never married and never registered a civil partnership,1,Female,5,Aged 50 to 64 years,182163
+E12000007,London,1,Never married and never registered a civil partnership,1,Female,6,Aged 65 years and over,62439
+E12000007,London,1,Never married and never registered a civil partnership,2,Male,1,Aged 15 years and under,0
+E12000007,London,1,Never married and never registered a civil partnership,2,Male,2,Aged 16 to 24 years,475867
+E12000007,London,1,Never married and never registered a civil partnership,2,Male,3,Aged 25 to 34 years,582729
+E12000007,London,1,Never married and never registered a civil partnership,2,Male,4,Aged 35 to 49 years,344359
+E12000007,London,1,Never married and never registered a civil partnership,2,Male,5,Aged 50 to 64 years,174307
+E12000007,London,1,Never married and never registered a civil partnership,2,Male,6,Aged 65 years and over,60757
+E12000007,London,2,Married or in a registered civil partnership,1,Female,1,Aged 15 years and under,0
+E12000007,London,2,Married or in a registered civil partnership,1,Female,2,Aged 16 to 24 years,17194
+E12000007,London,2,Married or in a registered civil partnership,1,Female,3,Aged 25 to 34 years,228444
+E12000007,London,2,Married or in a registered civil partnership,1,Female,4,Aged 35 to 49 years,545374
+E12000007,London,2,Married or in a registered civil partnership,1,Female,5,Aged 50 to 64 years,384128
+E12000007,London,2,Married or in a registered civil partnership,1,Female,6,Aged 65 years and over,228390
+E12000007,London,2,Married or in a registered civil partnership,2,Male,1,Aged 15 years and under,0
+E12000007,London,2,Married or in a registered civil partnership,2,Male,2,Aged 16 to 24 years,6571
+E12000007,London,2,Married or in a registered civil partnership,2,Male,3,Aged 25 to 34 years,164927
+E12000007,London,2,Married or in a registered civil partnership,2,Male,4,Aged 35 to 49 years,543439
+E12000007,London,2,Married or in a registered civil partnership,2,Male,5,Aged 50 to 64 years,433228
+E12000007,London,2,Married or in a registered civil partnership,2,Male,6,Aged 65 years and over,291535
+E12000007,London,3,"Separated, but still legally married or still legally in a civil partnership",1,Female,1,Aged 15 years and under,0
+E12000007,London,3,"Separated, but still legally married or still legally in a civil partnership",1,Female,2,Aged 16 to 24 years,595
+E12000007,London,3,"Separated, but still legally married or still legally in a civil partnership",1,Female,3,Aged 25 to 34 years,10721
+E12000007,London,3,"Separated, but still legally married or still legally in a civil partnership",1,Female,4,Aged 35 to 49 years,42480
+E12000007,London,3,"Separated, but still legally married or still legally in a civil partnership",1,Female,5,Aged 50 to 64 years,36951
+E12000007,London,3,"Separated, but still legally married or still legally in a civil partnership",1,Female,6,Aged 65 years and over,11125
+E12000007,London,3,"Separated, but still legally married or still legally in a civil partnership",2,Male,1,Aged 15 years and under,0
+E12000007,London,3,"Separated, but still legally married or still legally in a civil partnership",2,Male,2,Aged 16 to 24 years,171
+E12000007,London,3,"Separated, but still legally married or still legally in a civil partnership",2,Male,3,Aged 25 to 34 years,4611
+E12000007,London,3,"Separated, but still legally married or still legally in a civil partnership",2,Male,4,Aged 35 to 49 years,23090
+E12000007,London,3,"Separated, but still legally married or still legally in a civil partnership",2,Male,5,Aged 50 to 64 years,25451
+E12000007,London,3,"Separated, but still legally married or still legally in a civil partnership",2,Male,6,Aged 65 years and over,10690
+E12000007,London,4,Divorced or civil partnership dissolved,1,Female,1,Aged 15 years and under,0
+E12000007,London,4,Divorced or civil partnership dissolved,1,Female,2,Aged 16 to 24 years,459
+E12000007,London,4,Divorced or civil partnership dissolved,1,Female,3,Aged 25 to 34 years,14439
+E12000007,London,4,Divorced or civil partnership dissolved,1,Female,4,Aged 35 to 49 years,89493
+E12000007,London,4,Divorced or civil partnership dissolved,1,Female,5,Aged 50 to 64 years,125104
+E12000007,London,4,Divorced or civil partnership dissolved,1,Female,6,Aged 65 years and over,87529
+E12000007,London,4,Divorced or civil partnership dissolved,2,Male,1,Aged 15 years and under,0
+E12000007,London,4,Divorced or civil partnership dissolved,2,Male,2,Aged 16 to 24 years,185
+E12000007,London,4,Divorced or civil partnership dissolved,2,Male,3,Aged 25 to 34 years,7716
+E12000007,London,4,Divorced or civil partnership dissolved,2,Male,4,Aged 35 to 49 years,56883
+E12000007,London,4,Divorced or civil partnership dissolved,2,Male,5,Aged 50 to 64 years,82211
+E12000007,London,4,Divorced or civil partnership dissolved,2,Male,6,Aged 65 years and over,52835
+E12000007,London,5,Widowed or surviving civil partnership partner,1,Female,1,Aged 15 years and under,0
+E12000007,London,5,Widowed or surviving civil partnership partner,1,Female,2,Aged 16 to 24 years,151
+E12000007,London,5,Widowed or surviving civil partnership partner,1,Female,3,Aged 25 to 34 years,662
+E12000007,London,5,Widowed or surviving civil partnership partner,1,Female,4,Aged 35 to 49 years,7817
+E12000007,London,5,Widowed or surviving civil partnership partner,1,Female,5,Aged 50 to 64 years,37079
+E12000007,London,5,Widowed or surviving civil partnership partner,1,Female,6,Aged 65 years and over,189133
+E12000007,London,5,Widowed or surviving civil partnership partner,2,Male,1,Aged 15 years and under,0
+E12000007,London,5,Widowed or surviving civil partnership partner,2,Male,2,Aged 16 to 24 years,95
+E12000007,London,5,Widowed or surviving civil partnership partner,2,Male,3,Aged 25 to 34 years,267
+E12000007,London,5,Widowed or surviving civil partnership partner,2,Male,4,Aged 35 to 49 years,2132
+E12000007,London,5,Widowed or surviving civil partnership partner,2,Male,5,Aged 50 to 64 years,9370
+E12000007,London,5,Widowed or surviving civil partnership partner,2,Male,6,Aged 65 years and over,48985
