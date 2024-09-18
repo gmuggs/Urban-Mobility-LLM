@@ -4,6 +4,9 @@ This repository contains the code and the generated dataset for SIGSPATIAL 24 pa
 
 A preprint version of the paper is available [here](https://arxiv.org/pdf/2409.00063).
 
+
+The Llama-2-trained model described in the paper is avaibale [here](https://huggingface.co/prb977/Llama-2-urban-mobility).
+
 If you use our work, data or the model, please cite our paper:
 
 ```
